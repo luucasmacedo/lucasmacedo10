@@ -16,6 +16,11 @@
 ### Tech Stack:
 ![Image-Tech-Stack](https://github.com/luucasmacedo/luucasmacedo/blob/main/imagem-tech-stack.svg)
 
+<p align="center">
+  <img src="[https://github.com/luucasmacedo/luucasmacedo/blob/main/imagem-tech-stack.svg]">
+</p>
+
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{luucasmacedo}/count.svg" /></p> 
