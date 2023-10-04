@@ -1,14 +1,15 @@
-<p align="center">
+<div style="text-align: center;">
   <img src="https://github.com/luucasmacedo/luucasmacedo/blob/main/banner-github.svg" />
-</p>
+</div>
+
 
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8946C5&size=35&center=true&vCenter=true&width=1000&lines=I'm+21+years+old;I+study+data+science+at+FIAP;Be+Welcome!+:%29" alt="Typing SVG">
 </div>
 
 <div align="center" style="margin-bottom: 20px;">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luucasmacedo&show_icons=true&count_private=true&hide_border=true&title_color=FEFEFE&icon_color=8946C5&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Macedo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucasmacedo&layout=compact&hide_border=true&title_color=FEFEFE&text_color=FEFEFE&bg_color=0d1117" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luucasmacedo&show_icons=true&count_private=true&hide_border=true&title_color=FEFEFE&icon_color=8946C5&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Macedo github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucasmacedo&layout=compact&hide_border=true&title_color=FEFEFE&text_color=FEFEFE&bg_color=0d1117" />
 </div>
 
 
